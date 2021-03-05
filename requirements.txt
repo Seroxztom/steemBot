@@ -1,5 +1,4 @@
 piston-cli
-Flask==0.8
 gunicorn==0.14.2
-requests==0.11.1
+
 
