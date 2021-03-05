@@ -7,6 +7,8 @@ import datetime
 import os
 import subprocess
 from piston-cli import Steem
+from steem import Steem
+from steem.blockchain import Blockchain
 from random import randint
 
 # grab config vars
