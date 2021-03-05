@@ -6,7 +6,7 @@ import sys
 import datetime
 import os
 import subprocess
-from piston.steem import Steem
+from piston-cli import Steem
 from random import randint
 
 # grab config vars
