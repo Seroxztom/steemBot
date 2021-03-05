@@ -1,1 +1,1 @@
-pip3 install piston-cli
+piston-cli==0.4.0
