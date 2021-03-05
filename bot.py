@@ -11,6 +11,7 @@ from random import randint
 
 # grab config vars
 percentChanceToPost = int(os.environ.get('percentChanceToPost'))
+numPostsToConsider = int(os.environ.get('numPostsToConsider'))
 voteWeight = int(os.environ.get('voteWeight'))
 steemPostingKey = os.environ.get('steemPostingKey')
 steemAccountName = os.environ.get('steemAccountName')
