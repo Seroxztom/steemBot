@@ -1,2 +1,2 @@
 piston-cli
-$ heroku ps:scale web=1
+
